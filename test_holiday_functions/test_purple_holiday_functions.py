@@ -45,7 +45,8 @@ assert not brings_figgy_pudding(5, 8, 2, 0) # even though 0 quizzes means the st
 
 
 # James
-
+assert home_for_the_holidays("James") # since "James" only 5 letters long and "a" comes before "J" in the alphabet
+assert brings_figgy_pudding(6, 2, 1, 2) # all 6 formers are nice and the student has more quizzes than majors
 
 
 # JR
