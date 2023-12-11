@@ -11,5 +11,5 @@ When you are done, the file should be accessible at a URL with the following
 pattern:
 
 ```
-https://github.com/mgnozzio/<your repo name>/blog/main/holiday_ascii_art.py
+https://github.com/mgnozzio/<your repo name>/blob/main/holiday_ascii_art.py
 ```
