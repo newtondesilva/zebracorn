@@ -61,8 +61,8 @@ assert not brings_figgy_pudding(5, 8, 2, 0) # even though 0 quizzes means the st
 
 
 # Newton
-
-
+assert home_for_the_holidays("Newton")
+assert brings_figgy_pudding("6, 100, 30, 0")
 
 # Jason
 
