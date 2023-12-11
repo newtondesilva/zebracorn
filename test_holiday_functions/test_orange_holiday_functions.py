@@ -25,7 +25,8 @@ assert not brings_figgy_pudding(5, 8, 2, 0) # even though 0 quizzes means the st
 
 
 # Clara
-
+not naughty_or_nice(2,5)
+in_the_holiday_spirit(10,0)
 
 
 # Daivyon
