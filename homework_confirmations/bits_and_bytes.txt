@@ -1,9 +1,10 @@
 Instructions:
 
-1. Find your name below
-2. Next to your name, on the same line, type the following statement: 
+1. Click the edit button in GitHub.
+2. Find your name below
+3. Next to your name, on the same line, type the following statement: 
    I completed all the lessons at all three Khan Academy links in the Bits, Bytes and Binary assignment
-3. Commit your changes
+4. Commit your changes
 
 Note: Please do not add new lines to this file. 
 Keep your name and the confirmation statement on the same line.
